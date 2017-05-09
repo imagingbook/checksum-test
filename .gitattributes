@@ -2,7 +2,7 @@
 * text=auto
 
 # Never modify line endings for the following:
-*.xml binary
+*.xml -text
 *.md5 text eol=crlf
 *.sha1 text eol=crlf
 *.pom text eol=crlf
